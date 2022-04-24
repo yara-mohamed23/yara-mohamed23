@@ -1,7 +1,7 @@
 Hi 👋 My name is YaRa
 =====================
 
-software engineer | Web and User interface developer designer
+Software Engineer | Web and User interface developer & designer
 -------------------------------------------------------------
 
 To gain experience as a Web Developer that will allow me to utilize the skills gained at ITI and build a long-term career in Web Development with a company that offers a positive atmosphere to learn and implement new skills and technologies for the betterment of the organization.
